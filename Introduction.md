@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python , Django, Django Rest Frame work and willing to expand to more related languages to web development
 - 💞️ I’m looking to collaborate on websites development and python projects
 - 📫 How to reach me by email or phone number : +201222245284
-- 😄 Pronouns: Male
+- 😄 Gender: Male
 - ⚡ Fun fact: i like video games , songs , movies and hanging out with friends and family
 
 <!---
